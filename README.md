@@ -1,6 +1,6 @@
 # Resolucion de modelo de parcial para programacion II - U.T.N.
 
-![Diagrama UML](https://i.imgur.com/abcdefg.png)
+![Diagrama UML](https://github.com/lmirabelli/Gestion-Biblioteca/blob/main/UML-Biblioteca.JPG?raw=true)
 
 ## 📚 Sistema de Gestión de Biblioteca en Java
 
